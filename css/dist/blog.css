@@ -9,4 +9,5 @@
 .borde{
 	border: solid white;
 	box-shadow: 0 2px 2px  0 black;
+	display: inline-block;
 }
